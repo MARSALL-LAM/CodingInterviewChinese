@@ -5,8 +5,8 @@
 <br/>面试题07 重建二叉树 _07_1_ConstructBinaryTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_07_1_ConstructBinaryTree.java
 <br/>面试题08 二叉树的下一个节点 _08_1_NextNodeInBinaryTrees <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_08_1_NextNodeInBinaryTrees.java
 <br/>面试题09 用两个栈实现队列 _09_1_QueueWithTwoStacks <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_09_1_QueueWithTwoStacks.java
-<br/>
-<br/>
+<br/>面试题10 斐波那契数列 _10_1_Fibonacci <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_10_1_Fibonacci.java
+<br/>面试题11 旋转数组的最小数字 _11_1_MinNumberInRotatedArray  <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_11_1_MinNumberInRotatedArray.java
 <br/>
 <br/>
 <br/>
