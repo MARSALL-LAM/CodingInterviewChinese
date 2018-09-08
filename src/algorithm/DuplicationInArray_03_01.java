@@ -38,10 +38,23 @@ public class DuplicationInArray_03_01 {
         }
         return -3;
     }
+
+    /**
+     * 测试用例
+     * 1.长度为n的数组里包含一个或多个重复的数组
+     * 2.数组中不包含重复的数字
+     * 3.无效输入测试用例（输入空指针；长度为n的数字中包含0--n-1之外的数字）
+     */
     public static void main(String[] args){
         DuplicationInArray_03_01 duplicationInArray0301 = new DuplicationInArray_03_01();
-        int[] array = {1,2,1,3,0,3,1};
-        int r = duplicationInArray0301.solution(array);
-        System.out.println(r>0?r:(r==-1?"Array Error":(r==-2)?"Element Error":"No Duplication"));
+        int[] array1 = {1,2,1,3,0,3,1};
+        int[] array2 = {7,2,1,3,0,3,1};
+        int[] array3 = {0,1,2,3,4,5,6};
+        int r1 = duplicationInArray0301.solution(array1);
+        int r2 = duplicationInArray0301.solution(array2);
+        int r3 = duplicationInArray0301.solution(array3);
+        System.out.println(r1>0?r1:(r1==-1?"Array Error":(r1==-2)?"Element Error":"No Duplication"));
+        System.out.println(r2>0?r2:(r2==-1?"Array Error":(r2==-2)?"Element Error":"No Duplication"));
+        System.out.println(r3>0?r3:(r3==-1?"Array Error":(r3==-2)?"Element Error":"No Duplication"));
     }
 }
