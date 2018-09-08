@@ -9,7 +9,7 @@ package algorithm;
  * 例如，如果输入长度为7的数组{2,3,1,0,2,5,3}那么对应得输出是重复的数字2或者3.
  */
 
-public class DuplicationInArray_03_01 {
+public class _03_01_DuplicationInArray {
     /**
      *分析：因为所有数字在范围0--n-1，即如果没有重复的数字，则n会位于n-1的位置上。
      *      通过遍历数组，当当前下标i不等于array[i]时做以下操作
@@ -46,7 +46,7 @@ public class DuplicationInArray_03_01 {
      * 3.无效输入测试用例（输入空指针；长度为n的数字中包含0--n-1之外的数字）
      */
     public static void main(String[] args){
-        DuplicationInArray_03_01 duplicationInArray0301 = new DuplicationInArray_03_01();
+        _03_01_DuplicationInArray duplicationInArray0301 = new _03_01_DuplicationInArray();
         int[] array1 = {1,2,1,3,0,3,1};
         int[] array2 = {7,2,1,3,0,3,1};
         int[] array3 = {0,1,2,3,4,5,6};
