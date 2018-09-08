@@ -9,7 +9,7 @@ package algorithm;
  * 例如，如果输入长度为7的数组{2,3,1,0,2,5,3}那么对应得输出是重复的数字2或者3.
  */
 
-public class DuplicationInArray {
+public class DuplicationInArray_03_01 {
     /**
      *分析：因为所有数字在范围0--n-1，即如果没有重复的数字，则n会位于n-1的位置上。
      *      通过遍历数组，当当前下标i不等于array[i]时做以下操作
@@ -39,9 +39,9 @@ public class DuplicationInArray {
         return -3;
     }
     public static void main(String[] args){
-        DuplicationInArray duplicationInArray = new DuplicationInArray();
+        DuplicationInArray_03_01 duplicationInArray0301 = new DuplicationInArray_03_01();
         int[] array = {1,2,1,3,0,3,1};
-        int r = duplicationInArray.solution(array);
+        int r = duplicationInArray0301.solution(array);
         System.out.println(r>0?r:(r==-1?"Array Error":(r==-2)?"Element Error":"No Duplication"));
     }
 }
