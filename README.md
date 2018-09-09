@@ -15,7 +15,10 @@
 <br/>面试题17 打印从1到最大的n为数 _17_1_Print1ToMaxOfNDigits <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_17_1_Print1ToMaxOfNDigits.java
 <br/>面试题18 删除链表的节点 _18_1_DeleteNodeInList <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_18_1_DeleteNodeInList.java
 <br/>面试题19 正则表达式匹配 _19_1_RegularExpressionsMatching <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_19_1_RegularExpressionsMatching.java
-<br/>
-<br/>
-<br/>
-<br/>
+<br/>面试题20 表示数值的字符串 _20_1_NumericStrings <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_20_1_NumericStrings.java 
+<br/>面试题21 调整数组顺序使奇数位于偶数前面 _21_1_ReorderArray <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_21_1_ReorderArray.java
+<br/>面试题22 链表中倒数第k个节点 _22_1_KthNodeFromEnd <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_22_1_KthNodeFromEnd.java
+<br/>面试题23 链表中环的入口节点 _23_1_EntryNodeInListLoop <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_23_1_EntryNodeInListLoop.java
+<br/>面试题24 反转链表 _24_1_ReverseList <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_24_1_ReverseList.java
+<br/>面试题25 合并两个排序链表 _25_1_MergeSortedLists <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_25_1_MergeSortedLists.java
+<br/>面试题26 树的子结构 _26_1_SubstructureInTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_26_1_SubstructureInTree.java 
