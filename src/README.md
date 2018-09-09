@@ -11,3 +11,11 @@
 <br/>面试题13 机器人的运动范围 _13_1_RobotMove <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_13_1_RobotMove.java
 <br/>面试题14 剪绳子 _14_1_CuttingRope <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_14_1_CuttingRope.java
 <br/>面试题15 二进制中1的个数 _15_1_NumberOf1InBinary <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_15_1_NumberOf1InBinary.java
+<br/>面试题16 数值的整数次方 _16_1_Power <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_16_1_Power.java
+<br/>面试题17 打印从1到最大的n为数 _17_1_Print1ToMaxOfNDigits <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_17_1_Print1ToMaxOfNDigits.java
+<br/>面试题18 删除链表的节点 _18_1_DeleteNodeInList <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_18_1_DeleteNodeInList.java
+<br/>面试题19 正则表达式匹配 _19_1_RegularExpressionsMatching <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_19_1_RegularExpressionsMatching.java
+<br/>
+<br/>
+<br/>
+<br/>
