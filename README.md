@@ -23,3 +23,25 @@
 <br/>面试题25 合并两个排序链表 _25_1_MergeSortedLists <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_25_1_MergeSortedLists.java
 <br/>面试题26 树的子结构 _26_1_SubstructureInTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_26_1_SubstructureInTree.java
 <br/>面试题27 二叉树的镜像 _27_1_MirrorOfBinaryTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_27_1_MirrorOfBinaryTree.java
+<br/>面试题28 对称的二叉树 _28_1_SymmetricalBinaryTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_28_1_SymmetricalBinaryTree.java
+<br/>面试题29 顺时针打印矩阵 _29_1_PrintMatrix <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_29_1_PrintMatrix.java
+<br/>面试题30 包含min函数的栈 _30_1_MinInStack <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_30_1_MinInStack.java
+<br/>面试题31 栈的压入、弹出序列 _31_1_StackPushPopOrder <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_31_1_StackPushPopOrder.java
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
