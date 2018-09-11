@@ -32,8 +32,8 @@
 <br/>面试题34 二叉树中和为某一值的路径 _34_1_PathInTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_34_1_PathInTree.java
 <br/>面试题35 复杂链表的复制 _35_1_CopyComplexList <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_35_1_CopyComplexList.java
 <br/>面试题36 二叉搜索树与双向链表 _36_1_ConvertBinarySearchTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_36_1_ConvertBinarySearchTree.java
-<br/>
-<br/>
+<br/>面试题37 序列化二叉树 _37_1_SerializeBinaryTrees <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_37_1_SerializeBinaryTrees.java
+<br/>面试题38 字符串的排列 _38_1_StringPermutation <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_38_1_StringPermutation.java
 <br/>
 <br/>
 <br/>
