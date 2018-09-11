@@ -27,8 +27,8 @@
 <br/>面试题29 顺时针打印矩阵 _29_1_PrintMatrix <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_29_1_PrintMatrix.java
 <br/>面试题30 包含min函数的栈 _30_1_MinInStack <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_30_1_MinInStack.java
 <br/>面试题31 栈的压入、弹出序列 _31_1_StackPushPopOrder <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_31_1_StackPushPopOrder.java
-<br/>
-<br/>
+<br/>面试题32 从上到下打印二叉树 _32_1_PrintTreeFromTopToBottom <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_32_1_PrintTreeFromTopToBottom.java
+<br/>      
 <br/>
 <br/>
 <br/>
