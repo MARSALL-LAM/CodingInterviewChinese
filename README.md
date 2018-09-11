@@ -28,10 +28,10 @@
 <br/>面试题30 包含min函数的栈 _30_1_MinInStack <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_30_1_MinInStack.java
 <br/>面试题31 栈的压入、弹出序列 _31_1_StackPushPopOrder <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_31_1_StackPushPopOrder.java
 <br/>面试题32 从上到下打印二叉树 _32_1_PrintTreeFromTopToBottom <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_32_1_PrintTreeFromTopToBottom.java
-<br/>      
-<br/>
-<br/>
-<br/>
+<br/>面试题33 二叉搜索树的后序遍历序列 _33_1_SequenceOfBST <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_33_1_SequenceOfBST.java
+<br/>面试题34 二叉树中和为某一值的路径 _34_1_PathInTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_34_1_PathInTree.java
+<br/>面试题35 复杂链表的复制 _35_1_CopyComplexList <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_35_1_CopyComplexList.java
+<br/>面试题36 二叉搜索树与双向链表 _36_1_ConvertBinarySearchTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_36_1_ConvertBinarySearchTree.java
 <br/>
 <br/>
 <br/>
