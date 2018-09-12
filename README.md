@@ -34,7 +34,7 @@
 <br/>面试题36 二叉搜索树与双向链表 _36_1_ConvertBinarySearchTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_36_1_ConvertBinarySearchTree.java
 <br/>面试题37 序列化二叉树 _37_1_SerializeBinaryTrees <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_37_1_SerializeBinaryTrees.java
 <br/>面试题38 字符串的排列 _38_1_StringPermutation <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_38_1_StringPermutation.java
-<br/>
+<br/>面试题39 数组中出现次数超过一半的数字 _39_1_MoreThanHalfNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_39_1_MoreThanHalfNumber.java
 <br/>
 <br/>
 <br/>
