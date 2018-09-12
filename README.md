@@ -35,10 +35,10 @@
 <br/>面试题37 序列化二叉树 _37_1_SerializeBinaryTrees <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_37_1_SerializeBinaryTrees.java
 <br/>面试题38 字符串的排列 _38_1_StringPermutation <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_38_1_StringPermutation.java
 <br/>面试题39 数组中出现次数超过一半的数字 _39_1_MoreThanHalfNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_39_1_MoreThanHalfNumber.java
-<br/>
-<br/>
-<br/>
-<br/>
+<br/>面试题40 最小的k个数 _40_1_KLeastNumbers <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_40_1_KLeastNumbers.java
+<br/>面试题41 数据流中的中位数 _41_1_StreamMedian <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_41_1_StreamMedian.java
+<br/>面试题42 连续子数组的最大和 _42_1_GreatestSumOfSubarrays <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_42_1_GreatestSumOfSubarrays.java
+<br/>面试题42 1--n整数中1出现的次数 _43_1_NumberOf1 <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_43_1_NumberOf1.java
 <br/>
 <br/>
 <br/>
