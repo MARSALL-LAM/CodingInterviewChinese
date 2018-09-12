@@ -41,6 +41,10 @@
 <br/>面试题43 1--n整数中1出现的次数 _43_1_NumberOf1 <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_43_1_NumberOf1.java
 <br/>面试题44 数字序列中某一位的数字 _44_1_DigitsInSequence <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_44_1_DigitsInSequence.java
 <br/>面试题45 把数组排成最小的数 _45_1_SortArrayForMinNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_45_1_SortArrayForMinNumber.java
+<br/>面试题46 把数字翻译成字符串 _46_1_TranslateNumbersToStrings <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_46_1_TranslateNumbersToStrings.java
+<br/>面试题47 礼物的最大价值 _47_1_MaxValueOfGifts <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_47_1_MaxValueOfGifts.java
+<br/>面试题48 最长不含重复字符的子字符串 _48_1_LongestSubstringWithoutDup <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_48_1_LongestSubstringWithoutDup.java
+<br/>
 <br/>
 <br/>
 <br/>
