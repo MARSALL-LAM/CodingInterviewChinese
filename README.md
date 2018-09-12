@@ -39,8 +39,8 @@
 <br/>面试题41 数据流中的中位数 _41_1_StreamMedian <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_41_1_StreamMedian.java
 <br/>面试题42 连续子数组的最大和 _42_1_GreatestSumOfSubarrays <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_42_1_GreatestSumOfSubarrays.java
 <br/>面试题43 1--n整数中1出现的次数 _43_1_NumberOf1 <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_43_1_NumberOf1.java
-<br/>
-<br/>
+<br/>面试题44 数字序列中某一位的数字 _44_1_DigitsInSequence <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_44_1_DigitsInSequence.java
+<br/>面试题45 把数组排成最小的数 _45_1_SortArrayForMinNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_45_1_SortArrayForMinNumber.java
 <br/>
 <br/>
 <br/>
