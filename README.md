@@ -44,7 +44,7 @@
 <br/>面试题46 把数字翻译成字符串 _46_1_TranslateNumbersToStrings <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_46_1_TranslateNumbersToStrings.java
 <br/>面试题47 礼物的最大价值 _47_1_MaxValueOfGifts <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_47_1_MaxValueOfGifts.java
 <br/>面试题48 最长不含重复字符的子字符串 _48_1_LongestSubstringWithoutDup <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_48_1_LongestSubstringWithoutDup.java
-<br/>
+<br/>面试题49 丑数 _49_1_UglyNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_49_1_UglyNumber.java
 <br/>
 <br/>
 <br/>
