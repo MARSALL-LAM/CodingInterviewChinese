@@ -45,7 +45,7 @@
 <br/>面试题47 礼物的最大价值 _47_1_MaxValueOfGifts <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_47_1_MaxValueOfGifts.java
 <br/>面试题48 最长不含重复字符的子字符串 _48_1_LongestSubstringWithoutDup <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_48_1_LongestSubstringWithoutDup.java
 <br/>面试题49 丑数 _49_1_UglyNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_49_1_UglyNumber.java
-<br/>
-<br/>
+<br/>面试题50 第一个只出现一次的字符 _50_1_FirstNotRepeatingChar <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_50_1_FirstNotRepeatingChar.java
+<br/>面试题51 数组中的逆序对 _51_1_InversePairs <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_51_1_InversePairs.java
 <br/>
 <br/>

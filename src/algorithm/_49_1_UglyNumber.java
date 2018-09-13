@@ -6,6 +6,12 @@ package algorithm;
  * 习惯上我们把1当做是第一个丑数。求按从小到大的顺序的第N个丑数。
  */
 public class _49_1_UglyNumber {
+    /**
+     * 三个指针2,3,5,分别指向其当前的值，每次求下一个值时，比较三个指针的数乘以其表示的值（2,3,5）
+     * 开始三个指针都从1开始，当某次取出了其中一个指针，该指针指向下一个值。
+     * @param index
+     * @return
+     */
     public int GetUglyNumber_Solution(int index) {
         if (index <= 0) return 0;
         int two = 0;
