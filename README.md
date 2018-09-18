@@ -48,4 +48,21 @@
 <br/>面试题50 第一个只出现一次的字符 _50_1_FirstNotRepeatingChar <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_50_1_FirstNotRepeatingChar.java
 <br/>面试题51 数组中的逆序对 _51_1_InversePairs <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_51_1_InversePairs.java
 <br/>面试题52 两个链表的第一个公共节点 _52_1_FirstCommonNodesInLists <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_52_1_FirstCommonNodesInLists.java
+<br/>面试题53 在排序数组中查找数字 _53_1_FindNumberInSortedArray <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_1_FindNumberInSortedArray.java
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
