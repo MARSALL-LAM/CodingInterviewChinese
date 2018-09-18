@@ -6,7 +6,7 @@ package algorithm;
  * 题目：统计一个数字在排序数组中出现的次数。
  * 例如：输入排序数组{1,2,3,4,4,4,4,5}和数字4，输出4.
  */
-public class _53_1_FindNumberInSortedArray {
+public class _53_1_NumberOfK {
     static int GetNumberOfK(int[] sortedArray, int k) {
         int number = 0;
         if (sortedArray.length > 0) {
@@ -59,6 +59,6 @@ public class _53_1_FindNumberInSortedArray {
      */
     public static void main(String[] args){
         int[] a = {1,1,1,1,1,1,3,3,2,3,2,32,3,3};
-        System.out.println(_53_1_FindNumberInSortedArray.GetNumberOfK(a,3));
+        System.out.println(_53_1_NumberOfK.GetNumberOfK(a,3));
     }
 }

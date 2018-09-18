@@ -48,7 +48,10 @@
 <br/>面试题50 第一个只出现一次的字符 _50_1_FirstNotRepeatingChar <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_50_1_FirstNotRepeatingChar.java
 <br/>面试题51 数组中的逆序对 _51_1_InversePairs <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_51_1_InversePairs.java
 <br/>面试题52 两个链表的第一个公共节点 _52_1_FirstCommonNodesInLists <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_52_1_FirstCommonNodesInLists.java
-<br/>面试题53 在排序数组中查找数字 _53_1_FindNumberInSortedArray <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_1_FindNumberInSortedArray.java
+<br/>面试题53 在排序数组中查找数字 
+<br/>         题目一：数字在排序数组中出现的次数 _53_1_NumberOfK <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_1_NumberOfK.java
+<br/>         题目二：0--n-1中缺失的数字 _53_2_MissingNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_2_MissingNumber.java
+<br/>         题目三：数组中数值和下标相等的元素 _53_3_IntegerIdenticalToIndex <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_3_IntegerIdenticalToIndex.java
 <br/>
 <br/>
 <br/>
@@ -60,9 +63,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/>笔试经历01 找出重本线 _01_1_FindClassAScore <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/experince/_01_1_FindClassAScore.java
 <br/>
 <br/>
