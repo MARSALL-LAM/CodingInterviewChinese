@@ -1,6 +1,6 @@
-面试题03 数组中重复的数字 _03_01_DuplicationInArray    <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_03_01_DuplicationInArray.java
-<br/>面试题04 二位数组中的查找 _04_01_FindInPartiallySortedMatrix   <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_04_01_FindInPartiallySortedMatrix.java
-<br/>面试题05 替换空格 _05_01_ReplaceSpace <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_05_01_ReplaceSpace.java
+面试题03 数组中重复的数字 _03_1_DuplicationInArray    <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_03_01_DuplicationInArray.java
+<br/>面试题04 二位数组中的查找 _04_1_FindInPartiallySortedMatrix   <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_04_01_FindInPartiallySortedMatrix.java
+<br/>面试题05 替换空格 _05_1_ReplaceSpace <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_05_01_ReplaceSpace.java
 <br/>面试题06 从尾到头打印链表 _06_1_PrintListInReversedOrder <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_06_1_PrintListInReversedOrder.java
 <br/>面试题07 重建二叉树 _07_1_ConstructBinaryTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_07_1_ConstructBinaryTree.java
 <br/>面试题08 二叉树的下一个节点 _08_1_NextNodeInBinaryTrees <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_08_1_NextNodeInBinaryTrees.java
@@ -49,14 +49,14 @@
 <br/>面试题51 数组中的逆序对 _51_1_InversePairs <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_51_1_InversePairs.java
 <br/>面试题52 两个链表的第一个公共节点 _52_1_FirstCommonNodesInLists <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_52_1_FirstCommonNodesInLists.java
 <br/>面试题53 在排序数组中查找数字 
-<br/>         题目一：数字在排序数组中出现的次数 _53_1_NumberOfK <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_1_NumberOfK.java
-<br/>         题目二：0--n-1中缺失的数字 _53_2_MissingNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_2_MissingNumber.java
-<br/>         题目三：数组中数值和下标相等的元素 _53_3_IntegerIdenticalToIndex <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_3_IntegerIdenticalToIndex.java
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/>-------- 题目一：数字在排序数组中出现的次数 _53_1_NumberOfK <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_1_NumberOfK.java
+<br/>-------- 题目二：0--n-1中缺失的数字 _53_2_MissingNumber <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_2_MissingNumber.java
+<br/>-------- 题目三：数组中数值和下标相等的元素 _53_3_IntegerIdenticalToIndex <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_53_3_IntegerIdenticalToIndex.java
+<br/>面试题54 二叉搜索树的第K小节点 _54_1_KthNodeInBST <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_54_1_KthNodeInBST.java
+<br/>面试题55 二叉树的深度 
+<br/>-------- 题目一：二叉树的深度 _55_1_TreeDepth <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_55_1_TreeDepth.java
+<br/>-------- 题目二：平衡二叉树 _55_2_BalancedBinaryTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_55_2_BalancedBinaryTree.java
+<br/>面试题56 数组中数字出现的次数 _56_1_NumbersAppearOnce <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_56_1_NumbersAppearOnce.java
 <br/>
 <br/>
 <br/>
