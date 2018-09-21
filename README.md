@@ -56,9 +56,9 @@
 <br/>面试题55 二叉树的深度 
 <br/>-------- 题目一：二叉树的深度 _55_1_TreeDepth <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_55_1_TreeDepth.java
 <br/>-------- 题目二：平衡二叉树 _55_2_BalancedBinaryTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_55_2_BalancedBinaryTree.java
-<br/>面试题56 数组中数字出现的次数 _56_1_NumbersAppearOnce <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_56_1_NumbersAppearOnce.java
-<br/>
-<br/>
+<br/>面试题56 数组中数字出现的次数 
+<br/>-------- 题目一：数组中只出现一次的两个数字 _56_1_NumbersAppearOnce <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_56_1_NumbersAppearOnce.java
+<br/>-------- 题目二：数组中唯一只出现一次的数字 _56_2_NumbersAppearOnce <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_56_2_NumbersAppearOnce.java
 <br/>
 <br/>
 <br/>
