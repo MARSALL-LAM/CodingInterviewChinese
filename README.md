@@ -59,9 +59,15 @@
 <br/><br/>面试题56 数组中数字出现的次数 
 <br/>-------- 题目一：数组中只出现一次的两个数字 _56_1_NumbersAppearOnce <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_56_1_NumbersAppearOnce.java
 <br/>-------- 题目二：数组中唯一只出现一次的数字 _56_2_NumbersAppearOnce <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_56_2_NumbersAppearOnce.java
-<br/><br/>
-<br/><br/>
-<br/><br/>
+<br/><br/>面试题57 和为s的数字
+<br/>-------- 题目一：和为s的两个数 _57_1_TwoNumbersWithSum <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_57_1_TwoNumbersWithSum.java
+<br/>-------- 题目二：和为s的连续正数序列 _57_2_ContinuousSequenceWithSum <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_57_2_ContinuousSequenceWithSum.java
+<br/><br/>面试题58 翻转字符串 
+<br/>-------- 题目一：翻转单词顺序 _58_1_ReverseWordsInSentence <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_58_1_ReverseWordsInSentence.java
+<br/>-------- 题目二：左旋转字符串 _58_2_LeftRotateString <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_58_2_LeftRotateString.java
+<br/><br/>面试题59 队列的最大值
+<br/>-------- 题目一：滑动窗口的最大值 _59_1_MaxInSlidingWindow <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_59_1_MaxInSlidingWindow.java
+<br/>--------
 <br/><br/>
 <br/><br/>
 <br/><br/>
