@@ -67,8 +67,8 @@
 <br/>-------- 题目二：左旋转字符串 _58_2_LeftRotateString <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_58_2_LeftRotateString.java
 <br/><br/>面试题59 队列的最大值
 <br/>-------- 题目一：滑动窗口的最大值 _59_1_MaxInSlidingWindow <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_59_1_MaxInSlidingWindow.java
-<br/>--------
-<br/><br/>
+<br/>-------- 题目二：队列的最大值 _59_2_QueueWithMax <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_59_2_QueueWithMax.java
+<br/><br/>面试题60 n个骰子的点数 _60_1_DicesProbability <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_60_1_DicesProbability.java
 <br/><br/>
 <br/><br/>
 <br/><br/>

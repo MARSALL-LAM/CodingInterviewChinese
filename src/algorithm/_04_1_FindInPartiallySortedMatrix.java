@@ -5,7 +5,7 @@ package algorithm;
  * 题目：在一个二位数组中，每一行都按照从左到右递增的顺序排序，没一列都按照从上到下递增的顺序排序。
  * 请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
  */
-public class _04_01_FindInPartiallySortedMatrix {
+public class _04_1_FindInPartiallySortedMatrix {
     /**
      * 分析：为了快速地判断target的范围，选择左下（或者右上，与左下类似）为开始
      * 以左下array[i=row][j=0]为例，在i行中array[i][j]最小，在[j]列中最大
@@ -40,7 +40,7 @@ public class _04_01_FindInPartiallySortedMatrix {
     //测试用例
     //https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking&tPage=1
     public static void main(String[] args) {
-        _04_01_FindInPartiallySortedMatrix a = new _04_01_FindInPartiallySortedMatrix();
+        _04_1_FindInPartiallySortedMatrix a = new _04_1_FindInPartiallySortedMatrix();
         int[][] array = {{1, 6, 3}, {4, 12, 4}};
         int[][] nul = new int[11][11];
         System.out.println(a.solution(array, 12));
