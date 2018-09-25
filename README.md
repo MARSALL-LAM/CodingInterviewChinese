@@ -1,3 +1,4 @@
+<h2>剑指offer 第二版</h2><br/>
 面试题03 数组中重复的数字 _03_1_DuplicationInArray    <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_03_01_DuplicationInArray.java
 <br/><br/>面试题04 二位数组中的查找 _04_1_FindInPartiallySortedMatrix   <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_04_01_FindInPartiallySortedMatrix.java
 <br/><br/>面试题05 替换空格 _05_1_ReplaceSpace <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_05_01_ReplaceSpace.java
@@ -71,13 +72,14 @@
 <br/><br/>面试题60 n个骰子的点数 _60_1_DicesProbability <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_60_1_DicesProbability.java
 <br/><br/>面试题61 扑克牌中的顺子 _61_1_ContinuousCards <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_61_1_ContinousCards.java
 <br/><br/>面试题62 圆圈中最后剩下的数字 _62_1_LastNumberInCircle <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_62_1_LastNumberInCircle.java
+<br/><br/>面试题63 股票的最大利润 _63_1_MaximalProfit <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_63_1_MaximalProfit.java
+<br/><br/>面试题64 求1+2+……+n _64_1_Accumulate <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_64_1_Accumulate.java
+<br/><br/>面试题65 不用加减乘除做加法 _65_1_AddTwoNumbers <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_65_1_AddTwoNumbers.java
+<br/><br/>面试题66 构建乘积数组 _66_1_ConstructArray <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_66_1_ConstructArray.java
+<br/><br/>面试题67 把字符串转换整数 _67_1_TransferStringIntoInteger <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_67_1_TransferStringIntoInteger.java
+<br/><br/>面试题68 树中两个节点的最低公共祖先 _68_1_CommonParentInTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_68_1_CommonParentInTree.java
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+<H2>笔试经历</H2><br/>
 <br/>笔试经历01 找出重本线 _01_1_FindClassAScore <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/experince/_01_1_FindClassAScore.java
 <br/>KMP //TODO
 <br/>BITMAP //TODO
