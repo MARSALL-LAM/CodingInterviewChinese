@@ -79,8 +79,3 @@
 <br/><br/>面试题67 把字符串转换整数 _67_1_TransferStringIntoInteger <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_67_1_TransferStringIntoInteger.java
 <br/><br/>面试题68 树中两个节点的最低公共祖先 _68_1_CommonParentInTree <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_68_1_CommonParentInTree.java
 <br/><br/>
-<H2>笔试经历</H2><br/>
-<br/>笔试经历01 找出重本线 _01_1_FindClassAScore <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/experince/_01_1_FindClassAScore.java
-<br/>KMP //TODO
-<br/>BITMAP //TODO
-<br/>SORT //TODO
