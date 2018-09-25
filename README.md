@@ -69,8 +69,8 @@
 <br/>-------- 题目一：滑动窗口的最大值 _59_1_MaxInSlidingWindow <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_59_1_MaxInSlidingWindow.java
 <br/>-------- 题目二：队列的最大值 _59_2_QueueWithMax <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_59_2_QueueWithMax.java
 <br/><br/>面试题60 n个骰子的点数 _60_1_DicesProbability <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_60_1_DicesProbability.java
-<br/><br/>
-<br/><br/>
+<br/><br/>面试题61 扑克牌中的顺子 _61_1_ContinuousCards <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_61_1_ContinousCards.java
+<br/><br/>面试题62 圆圈中最后剩下的数字 _62_1_LastNumberInCircle <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/algorithm/_62_1_LastNumberInCircle.java
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -79,5 +79,6 @@
 <br/><br/>
 <br/><br/>
 <br/>笔试经历01 找出重本线 _01_1_FindClassAScore <br/>https://github.com/MARSALL-LAM/CodingInterviewChinese/blob/master/src/experince/_01_1_FindClassAScore.java
-<br/>
-<br/>
+<br/>KMP //TODO
+<br/>BITMAP //TODO
+<br/>SORT //TODO
