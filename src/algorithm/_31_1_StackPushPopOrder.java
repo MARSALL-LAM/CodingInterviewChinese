@@ -26,7 +26,7 @@ public class _31_1_StackPushPopOrder {
             else {
                 while (j < pushA.length && popA[i] != pushA[j])
                     stack.push(pushA[j++]);
-                if (j == pushA.length && i < popA.length) return false;
+                if (j == pushA.length ) return false;
                 j++;
             }
         }

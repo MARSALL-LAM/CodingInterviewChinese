@@ -17,14 +17,14 @@ public class _56_1_NumbersAppearOnce {
      * 分析：假如一个数组只有一个只出现过的数字，其他都出现两次，那么用异或操作可以找出这个数字
      * 相同数字做异或操作结果为0
      * 所以在本题我们需要把数组分为两部分，每部分都有一个只出现一次的数：
-     * 分两部分的基准：将这两个只出现一次的数做异或操作，然后得到异或操作的结果从左到右的第一个为1的位置是否为1做基准分隔
+     * 分两部分的基准：将这两个只出现一次的数做异或操作，然后得到异或操作的结果从右到左的第一个为1的位置是否为1做基准分隔
      * 然后对两部分做一个数组只有一个出现过一次的操作
      *
      * @param array
      */
     static void FindNumbersAppearOnce(int[] array) {
         if (array.length < 2) return;
-        if (!IsCorrectArray(array))return;;
+        if (!IsCorrectArray(array))return;
             int resultExclusiveOR = 0;
         for (int i = 0; i < array.length; i++) {
             resultExclusiveOR = resultExclusiveOR ^ array[i];

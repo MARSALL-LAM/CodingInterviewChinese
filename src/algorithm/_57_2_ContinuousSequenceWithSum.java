@@ -14,7 +14,6 @@ public class _57_2_ContinuousSequenceWithSum {
      */
     static void FindContinuousSequence(int sum) {
         if (sum < 3) return;
-        ;
         int small = 1;
         int big = 2;
         int middle = (1 + sum) / 2;

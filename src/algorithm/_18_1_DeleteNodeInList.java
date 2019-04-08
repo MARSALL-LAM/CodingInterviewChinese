@@ -5,7 +5,7 @@ package algorithm;
  * 题目一：在O(1)时间内删除链表节点
  * 给定单向链表的头指针和一个节点指针，定义一个函数在O(1）时间内删除该节点
  * 题目二：删除链表中重复的节点
- * 在一个排序的链表总，如何删除重复的节点
+ * 在一个排序的链表中，如何删除重复的节点
  */
 public class _18_1_DeleteNodeInList {
     public static class ListNode{

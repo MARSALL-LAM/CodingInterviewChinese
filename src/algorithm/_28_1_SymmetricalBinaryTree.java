@@ -2,7 +2,7 @@ package algorithm;
 
 /**
  * 面试题28：对称的二叉树
- * 题目：判断一颗二叉树是不是对称的。如果一个科二叉树和他的镜像一样，那么他是对称的。
+ * 题目：判断一颗二叉树是不是对称的。如果一个棵二叉树和他的镜像一样，那么他是对称的。
  */
 public class _28_1_SymmetricalBinaryTree {
     public class TreeNode {
